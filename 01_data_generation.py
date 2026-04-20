@@ -17,7 +17,7 @@ import numpy as np
 from datetime import datetime, timedelta
 import os
 
-np.random.seed(42)
+np.random.seed(99)
 
 # ============================================================
 # 1. PRODUCT MASTER TABLE

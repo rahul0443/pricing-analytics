@@ -1,6 +1,6 @@
 # 📊 Contact Lens Pricing & Promotion Analytics
 
-### [🔗 Live Dashboard →](https://rahul0443.github.io/coopervision-pricing-analytics)
+### [🔗 Live Dashboard →](https://rahul0443.github.io/pricing-analytics)
 
 An end-to-end pricing analytics project modeled on CooperVision's product portfolio, U.S. distributor network, and rebate programs. Built to demonstrate pricing analytics capabilities for the Strategic Pricing team.
 

@@ -108,7 +108,7 @@ Synthetic data modeled on public CooperVision product info · Not actual company
 // ── LOAD DATA FROM JSON ──────────────────────────────────────
 let DATA = null;
 
-fetch('outputs/dashboard_data.json?v=' + Date.now())
+fetch('outputs/dashboard_data.json?v=' + new Date().getTime())
   .then(r => r.json())
   .then(data => {
     DATA = data;

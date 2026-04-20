@@ -1,0 +1,16 @@
+product_id,product_name,family,lens_type,replacement,list_price_per_lens,cogs_per_lens
+SKU-001,MyDay 90pk,MyDay,Sphere,Daily,1.17,0.42
+SKU-002,MyDay Toric 90pk,MyDay,Toric,Daily,1.42,0.51
+SKU-003,MyDay Multifocal 90pk,MyDay,Multifocal,Daily,1.58,0.57
+SKU-004,Biofinity 6pk,Biofinity,Sphere,Monthly,6.17,2.1
+SKU-005,Biofinity Toric 6pk,Biofinity,Toric,Monthly,7.5,2.55
+SKU-006,Biofinity Multifocal 6pk,Biofinity,Multifocal,Monthly,9.17,3.12
+SKU-007,Biofinity XR Toric 6pk,Biofinity,Toric XR,Monthly,8.33,2.83
+SKU-008,clariti 1 day 90pk,clariti,Sphere,Daily,0.78,0.28
+SKU-009,clariti 1 day Toric 90pk,clariti,Toric,Daily,0.95,0.34
+SKU-010,clariti 1 day MF 90pk,clariti,Multifocal,Daily,1.06,0.38
+SKU-011,MiSight 1 day 90pk,MiSight,Myopia Mgmt,Daily,1.89,0.68
+SKU-012,Avaira Vitality 6pk,Avaira,Sphere,Bi-weekly,3.33,1.13
+SKU-013,Avaira Vitality Toric 6pk,Avaira,Toric,Bi-weekly,4.17,1.42
+SKU-014,Proclear 1 day 90pk,Proclear,Sphere,Daily,0.89,0.32
+SKU-015,Proclear Multifocal 6pk,Proclear,Multifocal,Monthly,8.33,2.83

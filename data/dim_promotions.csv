@@ -1,0 +1,8 @@
+promo_id,promo_name,eligible_families,promo_type,reward_amount,start_date,end_date
+PROMO-01,New Wearer Reward,"['Biofinity', 'MyDay']",New Fit,225,2025-07-01,2025-12-31
+PROMO-02,Repurchase Reward,"['Biofinity', 'MyDay']",Repurchase,200,2025-07-01,2025-12-31
+PROMO-03,Annual Supply Bonus,"['clariti', 'MyDay']",Annual,100,2025-10-01,2025-12-31
+PROMO-04,MiSight New Fit,['MiSight'],New Fit,150,2025-09-01,2025-12-31
+PROMO-05,Biofinity XR Launch,['Biofinity'],New Fit,50,2025-10-01,2025-12-31
+PROMO-06,clariti Switch,['clariti'],Switch,75,2025-08-01,2025-11-30
+PROMO-07,Avaira Vitality Trial,['Avaira'],New Fit,50,2025-07-01,2025-12-31
